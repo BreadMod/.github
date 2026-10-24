@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BreadMod/.github/assets/banner.svg" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/BreadMod/.github/main/assets/banner.svg" width="100%" alt="">
 
 # BreadMod
 
